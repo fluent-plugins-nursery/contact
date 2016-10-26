@@ -10,7 +10,7 @@ A plugin author can contact us using this repository's issue
 
 3. Plugin author transfers ownership to fluent-plugins-nursery
 
-4. Plugin author add @okkez to Gem owner
+4. Plugin author add [@okkez](https://github.com/okkez) to Gem owner
 
     ```
     $ gem owner GEM -a okkez000@gmail.com
@@ -22,5 +22,5 @@ TODO
 
 ## Admins
 
-* @okkez
-* @cosmo0920
+* [@okkez](https://github.com/okkez)
+* [@cosmo0920](https://github.com/cosmo0920)
