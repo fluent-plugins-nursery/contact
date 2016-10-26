@@ -18,6 +18,8 @@ A plugin author can contact us using this repository's issue
 
 5. [@okkez](https://github.com/okkez) adds other admins to Gem owner
 
+6. Close issue
+
 ## FAQ
 
 TODO
