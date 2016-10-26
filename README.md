@@ -4,7 +4,7 @@ A plugin author can contact us using this repository's issue
 
 ## Procedure
 
-1. Plugin author creates an issue to transfer ownership
+1. Plugin author [creates an issue](https://github.com/fluent-plugins-nursery/contact/issues/new) to transfer ownership
 
 2. Admins check created issue(s) and add label `accepted`
 
