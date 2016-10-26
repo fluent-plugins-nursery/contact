@@ -15,6 +15,7 @@ A plugin author can contact us using this repository's issue
     ```
     $ gem owner GEM -a okkez000@gmail.com
     ```
+
 ## FAQ
 
 TODO
