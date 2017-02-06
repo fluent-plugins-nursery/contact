@@ -8,10 +8,9 @@ A plugin author can contact us using this repository's issue
 
 2. Admins check created issue(s) and add label `accepted`
 
-3. Plugin author transfers ownership to [@okkez-bot](https://github.com/okkez-bot)
+    Admins add you to this organization as a member of "Original authors" team.
 
-    Because you cannot transfer ownership to fluent-plugins-nursery directly.
-    It is due to lack of privileges.
+3. Plugin author transfers ownership to this organization.
 
 4. Plugin author adds [@okkez](https://github.com/okkez) to Gem owner
 
