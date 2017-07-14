@@ -1,5 +1,7 @@
 # contact repository for [fluent-plugins-nursery](https://github.com/fluent-plugins-nursery)
 
+[![Join the chat at https://gitter.im/fluent-plugins-nursery/contact](https://badges.gitter.im/fluent-plugins-nursery/contact.svg)](https://gitter.im/fluent-plugins-nursery/contact?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A plugin author can contact us using this repository's issue
 
 ## Procedure
