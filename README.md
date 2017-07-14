@@ -4,6 +4,12 @@
 
 A plugin author can contact us using this repository's issue
 
+## What is fluent-plugins-nursery?
+
+* This organization is for Fluentd plugins that are not maintained by original authors
+* This organization aims to provide a sustainable maintenance system for Fluentd community
+* Original authors can transfer ownership to this organization according to procedure in next section
+
 ## Procedure
 
 1. Plugin author [creates an issue](https://github.com/fluent-plugins-nursery/contact/issues/new) to transfer ownership
@@ -26,7 +32,20 @@ A plugin author can contact us using this repository's issue
 
 ## FAQ
 
-TODO
+* Q: Is this highjack?
+* A: No. Original authors can keep privileges if they want.
+* Q: Can original authors release new version?
+* A: Yes. Original authors can keep maintaining plugin.
+* Q: Why transfer ownership?
+* A: Because it is easy for Fluentd users to find the repository that is maintainable and sustainable.
+     And Fluentd development core team encourages to contribute plugin upstream repository, we don't want to fork original authors'.
+     See [Fluentd development core team's opinion](http://docs.fluentd.org/v0.12/articles/plugin-development#send-a-patch-or-fork)
+* Q: Original authors are missing!
+* A: You can find out them on the internet. If you cannot find out them, we can help you.
+* Q: I'm a plugin developer. I want to support Fluentd's new features. But I don't know what should I do.
+* A: Let's go [Fluentd community](http://www.fluentd.org/community)!
+* Q: I want to talk to you before create issue.
+* A: Let's talk on [fluent-plugins-nursery/contact](https://gitter.im/fluent-plugins-nursery/contact).
 
 ## Admins
 
