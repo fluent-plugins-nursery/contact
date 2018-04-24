@@ -47,6 +47,12 @@ A plugin author can contact us using this repository's issue
 * Q: I want to talk to you before create issue.
 * A: Let's talk on [fluent-plugins-nursery/contact](https://gitter.im/fluent-plugins-nursery/contact).
 
+## Options
+
+There are some options to maintain plugins other than transferring ownership.
+
+See https://github.com/fluent-plugins-nursery/contact/blob/master/related-projects.md
+
 ## Admins
 
 * [@okkez](https://github.com/okkez)
