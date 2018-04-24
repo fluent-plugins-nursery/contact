@@ -14,12 +14,12 @@ We're maintaining following projects.
 * [cosmo0920/fluent-plugin-terminal_notifier](https://github.com/cosmo0920/fluent-plugin-terminal_notifier)
 
 
-## Coraborator and gem owner
+## Collaborator and gem owner
 
 * [y-ken/fluent-plugin-geoip](https://github.com/y-ken/fluent-plugin-geoip)
 * [toyama0919/fluent-plugin-formatter_sprintf](https://github.com/toyama0919/fluent-plugin-formatter_sprintf)
 
-## Coraborator
+## Collaborator
 
 * [y-ken/fluent-plugin-anonymizer](https://github.com/y-ken/fluent-plugin-anonymizer)
 * [uken/fluent-plugin-elasticsearch](https://github.com/uken/fluent-plugin-elasticsearch)
