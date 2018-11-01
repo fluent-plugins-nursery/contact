@@ -1,8 +1,8 @@
-Please input your Fluent plugin name to title.
+Please set the name of your Fluent plugin as the issue title.
 
-## Your repository URL of Fluent plugin
+## The repository URL of your Fluent plugin
 
-## Do you want to add you to this organization?
+## Do you want us to add you to this GitHub organization?
 
 Yes/No
 
