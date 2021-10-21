@@ -39,7 +39,7 @@ A plugin author can contact us using this repository's issue
 * Q: Why transfer ownership?
 * A: Because it is easy for Fluentd users to find the repository that is maintainable and sustainable.
      And Fluentd development core team encourages to contribute plugin upstream repository, we don't want to fork original authors'.
-     See [Fluentd development core team's opinion](http://docs.fluentd.org/v0.12/articles/plugin-development#send-a-patch-or-fork)
+     See [Fluentd development core team's opinion](https://docs.fluentd.org/plugin-development#send-a-patch-or-fork)
 * Q: Original authors are missing!
 * A: You can find out them on the internet. If you cannot find out them, we can help you.
 * Q: I'm a plugin developer. I want to support Fluentd's new features. But I don't know what should I do.
