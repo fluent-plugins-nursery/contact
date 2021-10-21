@@ -43,7 +43,7 @@ A plugin author can contact us using this repository's issue
 * Q: Original authors are missing!
 * A: You can find out them on the internet. If you cannot find out them, we can help you.
 * Q: I'm a plugin developer. I want to support Fluentd's new features. But I don't know what should I do.
-* A: Let's go [Fluentd community](http://www.fluentd.org/community)!
+* A: Let's go [Fluentd community](https://www.fluentd.org/community)!
 * Q: I want to talk to you before create issue.
 * A: Let's talk on [fluent-plugins-nursery/contact](https://gitter.im/fluent-plugins-nursery/contact).
 
