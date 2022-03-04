@@ -61,7 +61,7 @@ $ gem owner GEM --add fujimoto@ceptord.net
 * Q: I'm a plugin developer. I want to support Fluentd's new features. But I don't know what should I do.
 * A: Let's go [Fluentd community](https://www.fluentd.org/community)!
 * Q: I want to talk to you before create issue.
-* A: Please contact us on https://github.com/fluentd/discussion
+* A: Please contact us on https://github.com/fluent/fluentd/discussions
 * Q: Is there any option than transferring ownership?
 * A: See https://github.com/fluent-plugins-nursery/contact/blob/master/related-projects.md
 
