@@ -26,11 +26,11 @@ This organization is administrated by [Fluentd core maintainers](https://github.
 Mark all the following checkboxes to complete the transfer process:
 
 1. [ ] Original author agrees to transfer their project (Create [a new issue](https://github.com/fluent-plugins-nursery/contact/issues/new) to initiate the process)
-2. [ ] Admins check the request and confirm the transfer.
+2. [ ] Admins invite the original author to `fluent-plugin-nursery`.
 3. [ ] Original author transfers the ownership (see below for detailed instructions).
    - Transfer repository to `fluent-plugins-nursery`.
    - Add a new maintainer as a Gem owner.
-4. [ ] Admins create a new team `team-fluent-plugin-xyz` and invite the original author.
+4. [ ] Close ticket. Done!
 
 ### How to transfer your repository
 
