@@ -27,10 +27,9 @@ Mark all the following checkboxes to complete the transfer process:
 
 1. [ ] Original author agrees to transfer their project (Create [a new issue](https://github.com/fluent-plugins-nursery/contact/issues/new) to initiate the process)
 2. [ ] Admins invite the original author to `fluent-plugin-nursery`.
-3. [ ] Original author transfers the ownership (see below for detailed instructions).
-   - Transfer repository to `fluent-plugins-nursery`.
-   - Add a new maintainer as a Gem owner.
-4. [ ] Close ticket. Done!
+3. [ ] Original author transfers repository to `fluent-plugins-nursery`. ([How to transfer your repository](/README.md#how-to-transfer-your-repository))
+4. [ ] Original author adds a new maintainer as a Gem owner. ([How to add a new maintainer to your Gem](/README.md#how-to-add-a-new-maintainer-to-your-gem))
+5. [ ] Close ticket. Done!
 
 ### How to transfer your repository
 
