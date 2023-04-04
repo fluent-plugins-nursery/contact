@@ -46,7 +46,7 @@ Click "Transfer ownership" and confirm the dialog.
 Run `gem owner` commands like this:
 
 ```
-$ gem owner GEM --add fujimoto@ceptord.net
+$ gem owner GEM --add fukuda@clear-code.com
 ```
 
 ## FAQ
