@@ -22,7 +22,7 @@ Yes/No
 <!-- Maintainers will operate here, so please leave it as it is. -->
 
 - [ ] Original author agrees to transfer their project.
-- [ ] Admins invite the original author to `fluent-plugin-nursery`.
+- [ ] Admins invite the original author to `fluent-plugins-nursery`.
 - [ ] Original author transfers repository to `fluent-plugins-nursery`. ([How to transfer your repository](../blob/master/README.md#how-to-transfer-your-repository))
 - [ ] Original author adds a new maintainer as a Gem owner. ([How to add a new maintainer to your Gem](../blob/master/README.md#how-to-add-a-new-maintainer-to-your-gem))
 - [ ] Close ticket. Done!
